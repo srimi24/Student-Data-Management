@@ -1,0 +1,5 @@
+1,Srimitravinda,,Ponnada,100,99,95,100,93,Semister-1
+2,Anitha,,Ponnada,10,9,5,12,13,Semister-2
+3,Prasad,,Ponnada,100,99,98,100,95,Semister-86
+6,Priyanka,,S,100,99,99,99,99,Semester-8
+9,ananya,V,M,100,99,99,99,99,Semester-1
